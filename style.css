@@ -1,0 +1,27 @@
+h2{
+    color: blueviolet;
+}
+
+
+#first-paragraph {
+    font-size: 26px;
+    color: pink;
+    background-color: darkgreen;
+    padding: 15px;
+}
+
+.basic-steps{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:30px;
+    color:seagreen;
+}
+
+li p a {
+    color:red;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.basic-steps span{
+    color: rgb(226, 155, 24)!important;
+}
